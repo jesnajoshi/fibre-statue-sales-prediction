@@ -41,16 +41,24 @@ Niche or very large statues sell less frequently but generate higher individual 
 
 Statues in the mid-price range have higher sales compared to very low or very high-priced items.
 Customers prefer value-for-money products over premium pricing.
+
 4.Impact of Location
+
 Sales vary across locations, with urban and high-footfall areas showing better demand consistency.
 Location plays an important role in planning inventory distribution.
+
 5.Feature Importance
+
 Features such as season, festival period, price range, and statue category have a strong influence on sales prediction.
 Historical sales data is a reliable indicator for future forecasting.
+
 6.Model Performance
+
 Machine learning models like Random Forest / Decision Tree performed better than basic linear models due to non-linear sales patterns.
 The selected model provides accurate predictions with low error rate.
+
 7.Business Optimization
+
 Using sales prediction, businesses can reduce overstocking and understocking.
 Helps in planning production, inventory, and marketing strategies effectively.
 
