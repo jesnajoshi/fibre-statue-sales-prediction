@@ -28,12 +28,17 @@ This project analyzes historical sales data of fibre statues to predict future d
 
 ## Insight
 1.Seasonal Demand Pattern
+
 Sales of fibre statues significantly increase during festival and religious seasons, while off-season periods show lower demand.
 This indicates that seasonality is a major factor influencing sales.
+
 2.Popular Statue Categories
+
 Medium-sized and commonly worshipped statue categories contribute to the highest sales volume.
 Niche or very large statues sell less frequently but generate higher individual revenue.
+
 3.Price Sensitivity
+
 Statues in the mid-price range have higher sales compared to very low or very high-priced items.
 Customers prefer value-for-money products over premium pricing.
 4.Impact of Location
