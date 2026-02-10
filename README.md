@@ -26,7 +26,7 @@ This project analyzes historical sales data of fibre statues to predict future d
 6. Model Evaluation
 7. Sales Prediction
 
-##Insight
+## Insight
 1.Seasonal Demand Pattern
 Sales of fibre statues significantly increase during festival and religious seasons, while off-season periods show lower demand.
 This indicates that seasonality is a major factor influencing sales.
