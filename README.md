@@ -1,6 +1,6 @@
 # fibre-statue-sales-prediction
 Data analytics project to predict fibre statue sales using machine learning
-# Fibre Statue Sales Prediction Using Data Analytics
+
 
 ## Project Overview
 This project analyzes historical sales data of fibre statues to predict future demand using data analytics and machine learning techniques.
