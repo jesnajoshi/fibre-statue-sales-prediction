@@ -1,4 +1,4 @@
-# Fibre-Statue-Sales-Prediction
+# Fibre Statue Sales Prediction
 Data analytics project to predict fibre statue sales using machine learning
 
 
